@@ -2,7 +2,7 @@
 
 $host = "localhost";
 $username = "root";
-$password = "";
+$password = "root";
 $db_name = "medhealth";
 $connection = mysqli_connect($host, $username, $password, $db_name);
 
